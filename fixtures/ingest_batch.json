@@ -1,0 +1,8 @@
+{
+  "events": [
+    {"id": "E5", "cabinet_id": "CAB-A", "cell_id": "CAB-A-03", "event_type": "drop", "event_ts": "2026-11-19T02:00:00Z", "tracking_no": "TN1003", "payload": {}},
+    {"id": "E6", "cabinet_id": "CAB-A", "cell_id": "CAB-A-04", "event_type": "confirm", "event_ts": "2026-11-19T02:10:00Z", "tracking_no": "TN1004", "payload": {"非法类型夹具": "未登记 confirm"}},
+    {"id": "E7", "cabinet_id": "CAB-A", "cell_id": "CAB-A-02", "event_type": "scan", "event_ts": "2026-11-19T02:20:00Z", "tracking_no": "TN1002", "payload": {"非法类型夹具": "未登记 scan"}},
+    {"id": "E8", "cabinet_id": "CAB-A", "cell_id": "CAB-A-01", "event_type": "reclaim", "event_ts": "2026-11-19T02:30:00Z", "tracking_no": "TN1001", "payload": {}}
+  ]
+}
